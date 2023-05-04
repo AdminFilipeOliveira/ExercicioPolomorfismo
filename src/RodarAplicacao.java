@@ -14,5 +14,6 @@ public class RodarAplicacao {
 
         ClasseFilha2 classeFilha2 = new ClasseFilha2();
         classeFilha2.mettodo2();
+        classeFilha2.metodo1();
     }
 }
